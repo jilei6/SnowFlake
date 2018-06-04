@@ -1,0 +1,26 @@
+PODS:
+  - GCDWebServer (3.4.2):
+    - GCDWebServer/Core (= 3.4.2)
+  - GCDWebServer/Core (3.4.2)
+  - IQKeyboardManager (6.0.3)
+  - objective-zip (1.0.3)
+
+DEPENDENCIES:
+  - GCDWebServer (~> 3.0)
+  - IQKeyboardManager
+  - objective-zip (< 1.0.4)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - GCDWebServer
+    - IQKeyboardManager
+    - objective-zip
+
+SPEC CHECKSUMS:
+  GCDWebServer: 8d67ee9f634b4bb91eb4b8aee440318a5fc6debd
+  IQKeyboardManager: c390e612f4b98c8fd748016470138537dc163ead
+  objective-zip: 2f4eba2ed4a06ed74c7e6e4e7b80e6cacf212217
+
+PODFILE CHECKSUM: a010e4856fb4dd09803f7d93f18e896e7206af97
+
+COCOAPODS: 1.5.0

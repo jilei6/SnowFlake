@@ -1,0 +1,6 @@
+framework module Pods_SnowFlakeHybrid {
+  umbrella header "Pods-SnowFlakeHybrid-umbrella.h"
+
+  export *
+  module * { export * }
+}
